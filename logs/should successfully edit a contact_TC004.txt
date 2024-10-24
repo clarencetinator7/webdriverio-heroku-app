@@ -1,0 +1,17 @@
+Test Started: should successfully edit a contact_TC004 
+[2024-10-24_17:58:52] - Navigate to Thinking Tester Website
+[2024-10-24_17:58:53] - Started Function: setObjectValue
+[2024-10-24_17:58:53] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:58:53] - Started Function: setObjectValue
+[2024-10-24_17:58:53] - Finished Function: setObjectValue - Success: //input[@id="password"]
+[2024-10-24_17:58:53] - Started Function: clickObject
+[2024-10-24_17:58:54] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:54] - Started Function: clickObject
+[2024-10-24_17:58:56] - Finished Function: clickObject - Success: //table[@class="contactTable"]/tr[1]
+[2024-10-24_17:58:56] - Started Function: clickObject
+[2024-10-24_17:58:56] - Finished Function: clickObject - Success: //button[@id="edit-contact"]
+[2024-10-24_17:58:57] - Started Function: clickObject
+[2024-10-24_17:58:57] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:57] - Started Function: clickObject
+[2024-10-24_17:58:58] - Finished Function: clickObject - Success: //button[@id="return"]
+[2024-10-24_17:58:59] - Test Completed: should successfully edit a contact_TC004

@@ -1,0 +1,87 @@
+Test Started: should add new contacts_TC003 
+[2024-10-24_17:58:32] - Navigate to Thinking Tester Website
+[2024-10-24_17:58:35] - Started Function: setObjectValue
+[2024-10-24_17:58:35] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:58:35] - Started Function: setObjectValue
+[2024-10-24_17:58:36] - Finished Function: setObjectValue - Success: //input[@id="password"]
+[2024-10-24_17:58:36] - Started Function: clickObject
+[2024-10-24_17:58:36] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:37] - Started Function: clickObject
+[2024-10-24_17:58:37] - Finished Function: clickObject - Success: //button[@id="add-contact"]
+[2024-10-24_17:58:37] - Started Function: setObjectValue
+[2024-10-24_17:58:38] - Finished Function: setObjectValue - Success: //input[@id="firstName"]
+[2024-10-24_17:58:38] - Started Function: setObjectValue
+[2024-10-24_17:58:39] - Finished Function: setObjectValue - Success: //input[@id="lastName"]
+[2024-10-24_17:58:39] - Started Function: setObjectValue
+[2024-10-24_17:58:39] - Finished Function: setObjectValue - Success: //input[@id="birthdate"]
+[2024-10-24_17:58:39] - Started Function: setObjectValue
+[2024-10-24_17:58:39] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:58:39] - Started Function: setObjectValue
+[2024-10-24_17:58:39] - Finished Function: setObjectValue - Success: //input[@id="phone"]
+[2024-10-24_17:58:39] - Started Function: setObjectValue
+[2024-10-24_17:58:40] - Finished Function: setObjectValue - Success: //input[@id="street1"]
+[2024-10-24_17:58:40] - Started Function: setObjectValue
+[2024-10-24_17:58:40] - Finished Function: setObjectValue - Success: //input[@id="street2"]
+[2024-10-24_17:58:40] - Started Function: setObjectValue
+[2024-10-24_17:58:40] - Finished Function: setObjectValue - Success: //input[@id="city"]
+[2024-10-24_17:58:40] - Started Function: setObjectValue
+[2024-10-24_17:58:40] - Finished Function: setObjectValue - Success: //input[@id="stateProvince"]
+[2024-10-24_17:58:40] - Started Function: setObjectValue
+[2024-10-24_17:58:41] - Finished Function: setObjectValue - Success: //input[@id="postalCode"]
+[2024-10-24_17:58:41] - Started Function: setObjectValue
+[2024-10-24_17:58:41] - Finished Function: setObjectValue - Success: //input[@id="country"]
+[2024-10-24_17:58:41] - Started Function: clickObject
+[2024-10-24_17:58:41] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:42] - Started Function: clickObject
+[2024-10-24_17:58:43] - Finished Function: clickObject - Success: //button[@id="add-contact"]
+[2024-10-24_17:58:43] - Started Function: setObjectValue
+[2024-10-24_17:58:43] - Finished Function: setObjectValue - Success: //input[@id="firstName"]
+[2024-10-24_17:58:43] - Started Function: setObjectValue
+[2024-10-24_17:58:43] - Finished Function: setObjectValue - Success: //input[@id="lastName"]
+[2024-10-24_17:58:44] - Started Function: setObjectValue
+[2024-10-24_17:58:44] - Finished Function: setObjectValue - Success: //input[@id="birthdate"]
+[2024-10-24_17:58:44] - Started Function: setObjectValue
+[2024-10-24_17:58:44] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:58:44] - Started Function: setObjectValue
+[2024-10-24_17:58:44] - Finished Function: setObjectValue - Success: //input[@id="phone"]
+[2024-10-24_17:58:44] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="street1"]
+[2024-10-24_17:58:45] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="street2"]
+[2024-10-24_17:58:45] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="city"]
+[2024-10-24_17:58:45] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="stateProvince"]
+[2024-10-24_17:58:45] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="postalCode"]
+[2024-10-24_17:58:45] - Started Function: setObjectValue
+[2024-10-24_17:58:45] - Finished Function: setObjectValue - Success: //input[@id="country"]
+[2024-10-24_17:58:45] - Started Function: clickObject
+[2024-10-24_17:58:46] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:46] - Started Function: clickObject
+[2024-10-24_17:58:47] - Finished Function: clickObject - Success: //button[@id="add-contact"]
+[2024-10-24_17:58:47] - Started Function: setObjectValue
+[2024-10-24_17:58:47] - Finished Function: setObjectValue - Success: //input[@id="firstName"]
+[2024-10-24_17:58:47] - Started Function: setObjectValue
+[2024-10-24_17:58:47] - Finished Function: setObjectValue - Success: //input[@id="lastName"]
+[2024-10-24_17:58:47] - Started Function: setObjectValue
+[2024-10-24_17:58:48] - Finished Function: setObjectValue - Success: //input[@id="birthdate"]
+[2024-10-24_17:58:48] - Started Function: setObjectValue
+[2024-10-24_17:58:48] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:58:48] - Started Function: setObjectValue
+[2024-10-24_17:58:48] - Finished Function: setObjectValue - Success: //input[@id="phone"]
+[2024-10-24_17:58:48] - Started Function: setObjectValue
+[2024-10-24_17:58:48] - Finished Function: setObjectValue - Success: //input[@id="street1"]
+[2024-10-24_17:58:48] - Started Function: setObjectValue
+[2024-10-24_17:58:48] - Finished Function: setObjectValue - Success: //input[@id="street2"]
+[2024-10-24_17:58:48] - Started Function: setObjectValue
+[2024-10-24_17:58:49] - Finished Function: setObjectValue - Success: //input[@id="city"]
+[2024-10-24_17:58:49] - Started Function: setObjectValue
+[2024-10-24_17:58:49] - Finished Function: setObjectValue - Success: //input[@id="stateProvince"]
+[2024-10-24_17:58:49] - Started Function: setObjectValue
+[2024-10-24_17:58:49] - Finished Function: setObjectValue - Success: //input[@id="postalCode"]
+[2024-10-24_17:58:49] - Started Function: setObjectValue
+[2024-10-24_17:58:49] - Finished Function: setObjectValue - Success: //input[@id="country"]
+[2024-10-24_17:58:49] - Started Function: clickObject
+[2024-10-24_17:58:49] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:58:52] - Test Completed: should add new contacts_TC003

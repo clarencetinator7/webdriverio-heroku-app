@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11802","Fill Sample Form_TC001","","Thu Oct 24 10:19:21 PST 2024","passed","Thu Oct 24 10:19:33 PST 2024","","My Login Application","",""
+"","5949","should login with valid credentials","","Thu Oct 24 10:19:38 PST 2024","passed","Thu Oct 24 10:19:44 PST 2024","","My Login application","",""
+"","11242","Fill Sample Wrong Captcha_TC002","","Thu Oct 24 10:19:21 PST 2024","passed","Thu Oct 24 10:19:33 PST 2024","","My Login Application","",""

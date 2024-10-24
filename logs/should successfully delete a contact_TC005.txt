@@ -1,0 +1,13 @@
+Test Started: should successfully delete a contact_TC005 
+[2024-10-24_17:58:59] - Navigate to Thinking Tester Website
+[2024-10-24_17:59:00] - Started Function: setObjectValue
+[2024-10-24_17:59:00] - Finished Function: setObjectValue - Success: //input[@id="email"]
+[2024-10-24_17:59:00] - Started Function: setObjectValue
+[2024-10-24_17:59:01] - Finished Function: setObjectValue - Success: //input[@id="password"]
+[2024-10-24_17:59:01] - Started Function: clickObject
+[2024-10-24_17:59:01] - Finished Function: clickObject - Success: //button[@id="submit"]
+[2024-10-24_17:59:02] - Started Function: clickObject
+[2024-10-24_17:59:03] - Finished Function: clickObject - Success: //table[@class="contactTable"]/tr[last()]
+[2024-10-24_17:59:03] - Started Function: clickObject
+[2024-10-24_17:59:03] - Finished Function: clickObject - Success: //button[@id="delete"]
+[2024-10-24_17:59:04] - Test Completed: should successfully delete a contact_TC005
